@@ -1,4 +1,3 @@
-# Arooo - A Room Of One's Own
 [![Build Status](https://travis-ci.org/doubleunion/arooo.svg)](https://travis-ci.org/doubleunion/arooo)
 
 ## Welcome :rocket::rocket::rocket:
